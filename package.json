@@ -1,0 +1,31 @@
+{
+  "name": "velvet-under-ground-main",
+  "version": "1.0.0",
+  "description": "Explore the underground with a comprehensive bot for underground exploration and activities.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stay-06ocelots/velvet-under-ground-main"
+  },
+  "author": "stay-06ocelots",
+  "license": "MIT",
+  "dependencies": {
+    "velvet-under-ground-main": "1.0.0",
+    "velvet-under-ground-bot": "1.0.0",
+    "express": "1.0.0",
+    "moment": "1.0.0",
+    "cors": "1.0.0",
+    "ipfs-http-client": "1.0.0",
+    "web3": "1.0.0",
+    "truffle": "1.0.0",
+    "commander": "1.0.0",
+    "mysql": "1.0.0",
+    "react": "1.0.0",
+    "multer": "1.0.0",
+    "ethereumjs-util": "1.0.0",
+    "ejs": "1.0.0"
+  }
+}
